@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900625732402",
+    "project_id": "auth-app-7cdf6",
+    "storage_bucket": "auth-app-7cdf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900625732402:android:7c00afea5b54de1f00fd2b",
+        "android_client_info": {
+          "package_name": "com.ankit.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900625732402-4jmr9ru0gauulr661br7e7i89m45v9bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD00P7fPiAGZCPbnaAG5Bo9jL2Q9G-dPbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900625732402-4jmr9ru0gauulr661br7e7i89m45v9bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
